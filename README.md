@@ -14,9 +14,9 @@ A secure, scalable REST API for user authentication and authorization. This back
 
 ## Tech Stack
 
-- **Runtime Environment:** Node.js (or Python / Go)
-- **Framework:** Express.js (or Django / FastAPI)
-- **Database:** MongoDB with Mongoose (or PostgreSQL)
+- **Runtime Environment:** Node.js 
+- **Framework:** Express.js 
+- **Database:** MongoDB with Mongoose 
 - **Authentication:** JSON Web Tokens (JWT) & Bcrypt
 
 ---
